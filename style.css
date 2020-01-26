@@ -8,7 +8,10 @@ h1 {
   text-align: center;
 }
 
-nav.
+nav a {
+  margin-right: 10px;
+  margin-left: 10px;
+}
 
 figure {
   text-align: center;
