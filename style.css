@@ -28,3 +28,7 @@ figcaption {
   margin-bottom: 10px;
 }
 
+#details {
+  display: block;
+}
+
